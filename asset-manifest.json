@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kusik16/goit-react-hw-04-feedback/static/css/main.9ad0cf53.css",
+    "main.js": "/kusik16/goit-react-hw-04-feedback/static/js/main.ab6c22f5.js",
+    "index.html": "/kusik16/goit-react-hw-04-feedback/index.html",
+    "main.9ad0cf53.css.map": "/kusik16/goit-react-hw-04-feedback/static/css/main.9ad0cf53.css.map",
+    "main.ab6c22f5.js.map": "/kusik16/goit-react-hw-04-feedback/static/js/main.ab6c22f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ad0cf53.css",
+    "static/js/main.ab6c22f5.js"
+  ]
+}
