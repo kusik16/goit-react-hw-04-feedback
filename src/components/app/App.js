@@ -31,7 +31,7 @@ const App = () => {
         />
       </Section>
       <Section title="Statistics">
-        {good === 0 && neutral === 0 && bad === 0 ? (
+        {total === 0 ? (
           <Notification message="There is no feedback" />
         ) : (
           <Statistics
